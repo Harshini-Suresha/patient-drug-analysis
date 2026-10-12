@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+uci.zip
+data/
+.streamlit/secrets.toml
+.ipynb_checkpoints/
