@@ -204,6 +204,10 @@ with tab4:
         st.warning("Need at least 2 drugs.")
 
 st.divider()
+st.markdown("**Live links:** [Website](https://harshini-suresha.github.io/patient-drug-analysis/) · "
+            "[Open notebook in Colab](https://colab.research.google.com/github/Harshini-Suresha/patient-drug-analysis/blob/main/drug_review_analytics.ipynb) · "
+            "[View .ipynb on GitHub](https://github.com/Harshini-Suresha/patient-drug-analysis/blob/main/drug_review_analytics.ipynb) · "
+            "[GitHub repo](https://github.com/Harshini-Suresha/patient-drug-analysis)")
 st.caption("Dataset: UCI Drug Review Dataset (Drugs.com). Static site version is in index.html (GitHub Pages). "
            "Notebook version is drug_review_analytics.ipynb (Open in Colab). Contact: harshinisuresha7@gmail.com")
 st.markdown("**Contact:** [harshinisuresha7@gmail.com](mailto:harshinisuresha7@gmail.com)")

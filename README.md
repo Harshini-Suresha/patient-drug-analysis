@@ -2,7 +2,7 @@
 
 [![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-green)](https://harshini-suresha.github.io/patient-drug-analysis/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harshini-Suresha/patient-drug-analysis/blob/main/drug_review_analytics.ipynb)
-[![Streamlit](https://img.shields.io/badge/app-Streamlit-red)](https://share.streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/app-Streamlit-red)](https://patient-drug-analysis.streamlit.app/)
 [![nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.org/github/Harshini-Suresha/patient-drug-analysis/blob/main/drug_review_analytics.ipynb)
 
 **Condition-stratified drug ranking using shrinkage estimation and interactive analytics.**
@@ -17,7 +17,8 @@ Real Drugs.com reviews (UCI Drug Review Dataset), cleaned, ranked, validated.
 | 🌐 Website (GitHub Pages) | https://harshini-suresha.github.io/patient-drug-analysis/ |
 | 📓 Notebook in Colab (no install) | https://colab.research.google.com/github/Harshini-Suresha/patient-drug-analysis/blob/main/drug_review_analytics.ipynb |
 | 📓 Notebook in browser (nbviewer) | https://nbviewer.org/github/Harshini-Suresha/patient-drug-analysis/blob/main/drug_review_analytics.ipynb |
-| 🎈 Streamlit app (after 1-click deploy below) | `https://<your-app>.streamlit.app` |
+| 🎈 Streamlit app (live) | https://patient-drug-analysis.streamlit.app/ |
+| 📄 Notebook file (.ipynb) | https://github.com/Harshini-Suresha/patient-drug-analysis/blob/main/drug_review_analytics.ipynb |
 
 ## What's in this repo
 
