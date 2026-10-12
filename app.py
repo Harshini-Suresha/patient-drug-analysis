@@ -205,4 +205,5 @@ with tab4:
 
 st.divider()
 st.caption("Dataset: UCI Drug Review Dataset (Drugs.com). Static site version is in index.html (GitHub Pages). "
-           "Notebook version is drug_review_analytics.ipynb (Open in Colab).")
+           "Notebook version is drug_review_analytics.ipynb (Open in Colab). Contact: harshinisuresha7@gmail.com")
+st.markdown("**Contact:** [harshinisuresha7@gmail.com](mailto:harshinisuresha7@gmail.com)")

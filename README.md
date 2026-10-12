@@ -86,3 +86,7 @@ where *μc* is the condition mean and *m* (default 10) is the prior strength.
 Validated with split-half Spearman ρ across 89 conditions; diagnosed with Love-or-Hate Index `LHI = 4·P(≤3)·P(≥8)` and bootstrap rank intervals.
 
 Dataset: [UCI Drug Review Dataset (Drugs.com)](https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com)
+
+## Contact
+
+harshinisuresha7@gmail.com
